@@ -1,4 +1,4 @@
-min max in array 
+# min max in array 
 
 class Solution:
     def getMinMax(self, arr):
